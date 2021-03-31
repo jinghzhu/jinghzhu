@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinghzhu&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" width="400" />
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/jhzhu1/"><img src="https://img.shields.io/badge/-Jinghua_Zhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhzhu1/"></a>
+	<a href="https://komarev.com/ghpvc/?username=jinghzhu"><img src="https://komarev.com/ghpvc/?username=jinghzhu" alt="profile"></a>
+</p>
+
+- 🔭 I’m currently working on [Azure](https://azure.com)
+- 📫 How to reach me: jhzhu@outlook.com
