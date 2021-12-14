@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Azure](https://azure.com)
 - 📫 How to reach me: jhzhu@outlook.com
+- ⚡ I'm interested in Golang, Kubernetes, edge computing and distributed system.
