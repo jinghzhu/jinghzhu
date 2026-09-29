@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 	<a href="https://komarev.com/ghpvc/?username=jinghzhu"><img src="https://komarev.com/ghpvc/?username=jinghzhu" alt="profile"></a>
 </p>
 
-- 🔭 I’m currently working on [Azure](https://azure.com)
+- 🔭 I’m currently working on [Microsoft AI Foundry](https://ai.azure.com)
 - 📫 How to reach me: jhzhu@outlook.com
-- ⚡ I'm interested in Golang, Kubernetes, edge computing and distributed system.
+- ⚡ I'm interested in Golang, Kubernetes, and agent.
