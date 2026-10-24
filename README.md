@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Microsoft AI Foundry](https://ai.azure.com)
 - 📫 How to reach me: jhzhu@outlook.com
-- ⚡ I'm interested in Golang, Kubernetes, and agent.
